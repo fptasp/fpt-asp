@@ -162,6 +162,9 @@
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\SachesController.cs" />
+    <Compile Include="DAL\Initializer.cs" />
+    <Compile Include="DAL\SachContext.cs" />
     <Compile Include="Models\LinkLoaiSach.cs" />
     <Compile Include="Models\LinkNhaXB.cs" />
     <Compile Include="Models\LinkTacgia.cs" />
@@ -238,10 +241,14 @@
     <Content Include="Views\Manage\VerifyPhoneNumber.cshtml" />
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
+    <Content Include="Views\Saches\Create.cshtml" />
+    <Content Include="Views\Saches\Delete.cshtml" />
+    <Content Include="Views\Saches\Details.cshtml" />
+    <Content Include="Views\Saches\Edit.cshtml" />
+    <Content Include="Views\Saches\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="DAL\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />

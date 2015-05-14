@@ -52,3 +52,4 @@ C:\Users\dungt_000\ASPproject\WebApplication1\WebApplication1\bin\Microsoft.Owin
 C:\Users\dungt_000\ASPproject\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\dungt_000\ASPproject\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
 C:\Users\dungt_000\ASPproject\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\dungt_000\ASPproject\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache

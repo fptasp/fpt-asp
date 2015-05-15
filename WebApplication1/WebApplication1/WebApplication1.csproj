@@ -162,7 +162,10 @@
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\LoaiSachesController.cs" />
+    <Compile Include="Controllers\NhaXBsController.cs" />
     <Compile Include="Controllers\SachesController.cs" />
+    <Compile Include="Controllers\TacgiasController.cs" />
     <Compile Include="DAL\Initializer.cs" />
     <Compile Include="DAL\SachContext.cs" />
     <Compile Include="Models\LinkLoaiSach.cs" />
@@ -246,6 +249,21 @@
     <Content Include="Views\Saches\Details.cshtml" />
     <Content Include="Views\Saches\Edit.cshtml" />
     <Content Include="Views\Saches\Index.cshtml" />
+    <Content Include="Views\LoaiSaches\Create.cshtml" />
+    <Content Include="Views\LoaiSaches\Delete.cshtml" />
+    <Content Include="Views\LoaiSaches\Details.cshtml" />
+    <Content Include="Views\LoaiSaches\Edit.cshtml" />
+    <Content Include="Views\LoaiSaches\Index.cshtml" />
+    <Content Include="Views\Tacgias\Create.cshtml" />
+    <Content Include="Views\Tacgias\Delete.cshtml" />
+    <Content Include="Views\Tacgias\Details.cshtml" />
+    <Content Include="Views\Tacgias\Edit.cshtml" />
+    <Content Include="Views\Tacgias\Index.cshtml" />
+    <Content Include="Views\NhaXBs\Create.cshtml" />
+    <Content Include="Views\NhaXBs\Delete.cshtml" />
+    <Content Include="Views\NhaXBs\Details.cshtml" />
+    <Content Include="Views\NhaXBs\Edit.cshtml" />
+    <Content Include="Views\NhaXBs\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
